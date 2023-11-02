@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "River City Roleplay",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/oauth2/authorize?client_id=1158871654592696423&response_type=code&scope=bot%20applications.commands&permissions=2134207679&guild_id=1153450488369520771&redirect_uri=https://dyno.gg/oauth2/callback/1158871654592696423",
   //BotInvite Link
   Features: [
     {
